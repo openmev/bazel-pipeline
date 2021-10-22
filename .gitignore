@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+**/*~
+.project
+bazel*
+.idea
+*.iml
+*.key
+*.tar.gz
+*.tar
+*.zip
+*.log
+cache/
+.cache/
